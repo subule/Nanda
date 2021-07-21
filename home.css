@@ -1,0 +1,22 @@
+body {
+    background-image: url("wall.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+  }
+
+.box1{
+  font-size: 30px;
+  margin: auto;
+  width: 50%;
+  border: 3px black;
+  padding: 10px;
+  text-align: center;
+  border: 3px solid black;
+  display: block;
+  margin-left: 10px;
+  margin-top: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
